@@ -1,33 +1,37 @@
-<!-- Profile Animation Banner -->
+<!-- Orbitron font embed for supported elements (fallback-safe) -->
+<style>
+  * {
+    font-family: 'Orbitron', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+</style>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&color=10B981&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Kashif+Alam+%F0%9F%91%8B;AI+%2F+ML+Engineer+%7C+MLOps+Builder+%7C+Backend+Developer;Coding+clean+%7C+Deploying+fast+%7C+Learning+always" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&color=10B981&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Kashif+Alam+%F0%9F%91%8B;AI+/+ML+Engineer+%7C+MLOps+Builder+%7C+Backend+Developer;Coding+clean+%7C+Deploying+fast+%7C+Always+learning" />
 </p>
 
 ---
 
-# 👋 I’m Kashif Alam
+# 👋 I'am Kashif Alam
 
 > 🚀 I'm an **AI/ML Engineer & Data Scientist** with backend superpowers — crafting intelligent, beautiful, and efficient systems that feel like magic.
 
-I turn raw data into intelligent decisions, build scalable AI-first systems, and engineer backends with precision. My passion lies in blending AI with automation, clean APIs, and smooth UX.
+I specialize in turning raw data into actionable intelligence and building AI-native experiences. With a strong grip on backend engineering, I design robust APIs, scale data pipelines, and deploy ML models with precision and speed.
 
-- 🧠 Skilled in **LangChain**, **OpenAI**, **Sklearn**, **Pandas**, and **Numpy**
-- ⚙️ Building with **FastAPI**, **MongoDB Atlas**, **PostgreSQL**, **Docker**
-- ☁️ Deploying with **Vercel**, **Neon DB**, **Netlify**, and **Render**
-- 🔭 Currently building **ModelPulse** — MLOps observability + continuous delivery control plane
+- 🧠 I work with **Python**, **Sklearn**, **LangChain**, **OpenAI**, and **Numpy**.
+- ⚙️ I build backends using **FastAPI**, **PostgreSQL**, **MongoDB**, and **Docker**.
+- 🌐 I deploy cloud-native apps using **Vercel**, **Netlify**, and **Neon DB**.
+- 🔭 I’m currently building **ModelPulse** — a control plane for MLOps observability and continuous delivery.
 
 > _"Dream minimal, build phenomenal."_ ✨
 
 ---
 
-# ⚙️ Tech Stack & Tools
+# 🛠️ Tech Stack & Tools I Use
 
-<!-- Main tool icons -->
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,flask,fastapi,docker,mongodb,postgres,mysql,vercel,netlify,git,github" />
 </div>
 
-<!-- Custom badges for ML/Data tools -->
 <p align="center">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-2B2E4A?style=for-the-badge&logo=python&logoColor=white" />
@@ -43,32 +47,32 @@ I turn raw data into intelligent decisions, build scalable AI-first systems, and
 
 ### 📍 Quick Snapshot
 
-| 🔧 What I Do | 🛠️ Tools I Love |
-|-------------|-----------------|
-| 🧠 AI Agents, LLM Apps, ML APIs | `LangChain`, `OpenAI`, `Sklearn`, `Pandas` |
-| 🔙 Backend Engineering | `FastAPI`, `MongoDB Atlas`, `PostgreSQL`, `Docker` |
-| ☁️ Infra & DevOps | `Vercel`, `Neon`, `Render`, `Prometheus` |
+| What I Do | Tools I Love |
+|-----------|--------------|
+| 🧩 AI Agents, LLM Apps, ML APIs | `LangChain`, `OpenAI`, `Sklearn`, `Pandas` |
+| 🛠 Backend Engineering | `FastAPI`, `MongoDB Atlas`, `PostgreSQL`, `Docker` |
+| 🌐 Infra & DevOps | `Vercel`, `Neon`, `Prometheus`, `Render` |
 
 ---
 
 ### 🧭 Currently Learning
 
-- 🧩 **LangGraph**: building flow-controlled autonomous agents  
-- 🧠 **Vector DBs**: optimizing RAG pipelines  
-- 🔭 **OpenTelemetry**: boosting backend observability
+- 📚 **LangGraph** for flow-controlled autonomous agents  
+- 🔍 **Vector DBs** for RAG  
+- ⚙️ **OpenTelemetry** for backend observability  
 
 ---
 
 ### 📫 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/kk-alam" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="www.linkedin.com/in/kashif-alam-59726b152" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:kkalam401@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://kk-alam.github.io">
+  <a href="https://github.com/Kashif-alamshah">
     <img src="https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
