@@ -1,25 +1,24 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=10B981&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+kk+alam+%F0%9F%91%8B;AI+Engineer+%7C+MLOps+Builder+%7C+System+Thinker;Coding+clean+%7C+Deploying+fast+%7C+Learning+always" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=10B981&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Kashif+Alam+%F0%9F%91%8B;AI/ML+Engineer+%7C+MLOps+Builder+%7C+System+Thinker;Coding+clean+%7C+Deploying+fast+%7C+Learning+always" />
 </p>
 ### 👋 Who is kk alam?
 
-> 🚀 I'm a **AI Engineer & Full-Stack Developer** crafting intelligent, beautiful, and efficient systems that feel like magic.
+> 🚀 I'm an **AI/ML Engineer & Data Scientist** with backend superpowers — crafting intelligent, beautiful, and efficient systems that feel like magic.
 
-I specialize in building **AI-native applications**, MLOps control planes, and next-gen backend systems. My passion lies in turning complex ideas into elegant solutions — blending performance with design and intelligence.
+I specialize in turning raw data into actionable intelligence and building AI-native experiences. With a strong grip on backend engineering, I design robust APIs, scale data pipelines, and deploy ML models with precision and speed.
 
-- 🧠 I build with **FastAPI**, **React**, **LangChain**, **Docker**, and **PostgreSQL**.
-- ⚙️ I deploy to the cloud using **Vercel**, **Neon DB**, **Netlify**, and more.
-- 🤖 I experiment with **Autonomous Agents**, **RAG Pipelines**, and **Conversational AI**.
-- 🎯 I'm currently building **ModelPulse**, an MLOps observability and deployment control platform.
+- 🧠 I work with **Python**, **Sklearn**, **LangChain**, and **OpenAI**.
+- ⚙️ I build backends using **FastAPI**, **PostgreSQL**, **MongoDB**, and **Docker**.
+- 🌐 I deploy cloud-native apps using **Vercel**, **Netlify**, and **Neon DB**.
+- 🔭 I’m currently building **ModelPulse** — a control plane for MLOps observability and continuous delivery.
 
 > _"Dream minimal, build phenomenal."_ ✨
-
 ---
 
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,js,fastapi,react,tailwind,docker,mongodb,postgres,vercel,netlify,git,github,openai" />
+  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,docker,mongodb,postgres,mysql,vercel,netlify,git,github,openai,langchain" />
 </div>
 
 ---
@@ -30,7 +29,6 @@ I specialize in building **AI-native applications**, MLOps control planes, and n
 |-----------|--------------|
 | 🧩 AI Agents, LLM Apps, ML APIs | `LangChain`, `OpenAI`, `Sklearn`, `Pandas` |
 | 🛠 Backend Engineering | `FastAPI`, `MongoDB Atlas`, `PostgreSQL`, `Docker` |
-| 🎨 Frontend & UI | `React`, `TailwindCSS`, `Vite` |
 | 🌐 Infra & DevOps | `Vercel`, `Neon`, `Prometheus`, `Render` |
 
 ---
