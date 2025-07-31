@@ -1,9 +1,4 @@
-<!-- Orbitron font embed for supported elements (fallback-safe) -->
-<style>
-  * {
-    font-family: 'Orbitron', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  }
-</style>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&color=10B981&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Kashif+Alam+%F0%9F%91%8B;AI+/+ML+Engineer+%7C+MLOps+Builder+%7C+Backend+Developer;Coding+clean+%7C+Deploying+fast+%7C+Always+learning" />
