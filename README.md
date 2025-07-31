@@ -17,15 +17,17 @@ I specialize in turning raw data into actionable intelligence and building AI-na
 
 ### 🛠️ Tech Stack
 
-### 🛠️ Tech Stack & Tools I Use
+# 🛠️ Tech Stack & Tools I Use
 
 <!-- Skillicons.dev icons for major technologies -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,docker,mongodb,postgres,mysql,vercel,netlify,git,github,openai,langchain" />
+  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,docker,mongodb,postgres,mysql,vercel,netlify,git,github" />
 </div>
 
 <!-- Additional ML/Data Science tools not supported by skillicons -->
 <p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-2B2E4A?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
