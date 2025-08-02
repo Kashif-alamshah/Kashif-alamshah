@@ -24,7 +24,7 @@ I specialize in turning raw data into actionable intelligence and building AI-na
 # 🛠️ Tech Stack & Tools I Use
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,docker,mongodb,postgres,mysql,vercel,netlify,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,Tensorflow,flask,fastapi,docker,mongodb,postgres,mysql,vercel,netlify,git,github" />
 </div>
 
 <p align="center">
