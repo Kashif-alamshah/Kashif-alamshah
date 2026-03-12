@@ -12,8 +12,8 @@
 
 I specialize in turning raw data into actionable intelligence and building AI-native experiences. With a strong grip on backend engineering, I design robust APIs, scale data pipelines, and deploy ML models with precision and speed.
 
-- 🧠 I work with **Python**, **Sklearn**, **LangChain**, **OpenAI**, and **Numpy**.
-- ⚙️ I build backends using **FastAPI**, **PostgreSQL**, **MongoDB**, and **Docker**.
+- 🧠 I work with **Python**, **Sklearn**, **LangChain**, **LangGraph**, **LangSmith**, **OpenAI**,**OpenRouter**, and **Numpy**.
+- ⚙️ I build backends using **FastAPI**,**Flask**,**PostgreSQL**, **MongoDB**, and **Docker**.
 - 🌐 I deploy cloud-native apps using **Vercel**, **Netlify**, and **Neon DB**.
 - 🔭 I’m currently building **ModelPulse** — a control plane for MLOps observability and continuous delivery.
 
